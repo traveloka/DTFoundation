@@ -6,6 +6,8 @@
 //  Copyright (c) 2015 Cocoanetics. All rights reserved.
 //
 
+@import UIKit;
+
 #import <Availability.h>
 
 #if __IPHONE_OS_VERSION_MAX_ALLOWED > 80400

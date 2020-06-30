@@ -6,6 +6,8 @@
 //  Copyright (c) 2012 Cocoanetics. All rights reserved.
 //
 
+@import Foundation;
+
 /**
  A collection of useful additions for `NSDictionary` to deal with Property Lists and also to get error handling for malformed data.
  */

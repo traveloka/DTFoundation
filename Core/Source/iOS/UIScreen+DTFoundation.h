@@ -6,6 +6,8 @@
 //  Copyright © 2017 Cocoanetics. All rights reserved.
 //
 
+@import UIKit;
+
 /** DTFoundation enhancements for `UIView` */
 
 @interface UIScreen (DTFoundation)

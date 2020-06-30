@@ -6,6 +6,8 @@
 //  Copyright (c) 2012 Cocoanetics. All rights reserved.
 //
 
+@import UIKit;
+
 /**
  A Progress indicator shaped like a pie chart. If you don't specify a color then the current tintColor is used. This is useful when using it as a subview of a UIVisualEffectsView with vibrancy effect. Then all subviews using tintColor have the vibrancy applied.
  */

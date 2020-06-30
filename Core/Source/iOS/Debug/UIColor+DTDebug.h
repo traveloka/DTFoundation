@@ -6,6 +6,8 @@
 //  Copyright (c) 2013 Cocoanetics. All rights reserved.
 //
 
+@import UIKit;
+
 /**
  Helpful extensions for UIColor
  */

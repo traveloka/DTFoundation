@@ -8,8 +8,7 @@
 //
 
 
-#import <Foundation/Foundation.h>
-#import <UIKit/UIGestureRecognizerSubclass.h>
+@import UIKit;
 
 
 @interface DTSidePanelPanGestureRecognizer : UIPanGestureRecognizer

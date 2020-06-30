@@ -6,6 +6,8 @@
 //  Copyright (c) 2012 Cocoanetics. All rights reserved.
 //
 
+@import Foundation;
+
 /** Method for getting the full length URL for a shortened one. 
  
 For example:

@@ -6,6 +6,8 @@
 //  Copyright (c) 2013 Cocoanetics. All rights reserved.
 //
 
+@import Foundation;
+
 /**
  This class is used by [NSObject addDeallocBlock:] to execute blocks on dealloc
  */

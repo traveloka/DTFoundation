@@ -6,6 +6,7 @@
 //  Copyright (c) 2014 Cocoanetics. All rights reserved.
 //
 
+@import UIKit;
 
 /**
  Loads an animated GIF from file, compatible with UIImageView

@@ -6,6 +6,8 @@
 //  Copyright (c) 2013 Cocoanetics. All rights reserved.
 //
 
+@import Foundation;
+
 #import <SystemConfiguration/SystemConfiguration.h>
 
 /**

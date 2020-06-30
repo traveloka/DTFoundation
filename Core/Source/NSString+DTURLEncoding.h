@@ -6,6 +6,8 @@
 //  Copyright (c) 2012 Cocoanetics. All rights reserved.
 //
 
+@import Foundation;
+
 /** 
  A collection of useful additions for `NSString` to deal with URL encoding.
  */

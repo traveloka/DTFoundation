@@ -6,6 +6,8 @@
 //  Copyright (c) 2012 Cocoanetics. All rights reserved.
 //
 
+@import UIKit;
+
 /**
  Methods to add simple block-based actions to UIViews.
  */

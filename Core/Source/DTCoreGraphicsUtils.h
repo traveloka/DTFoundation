@@ -6,6 +6,8 @@
 //  Copyright 2010 Cocoanetics. All rights reserved.
 //
 
+@import UIKit;
+
 #import <tgmath.h>
 
 /**

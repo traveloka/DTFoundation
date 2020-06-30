@@ -6,6 +6,7 @@
 //  Copyright (c) 2012 Cocoanetics. All rights reserved.
 //
 
+@import Foundation;
 
 // string constant for NSError domain
 extern NSString * const DTFoundationErrorDomain;

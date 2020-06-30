@@ -6,6 +6,8 @@
 //  Copyright (c) 2013 Cocoanetics. All rights reserved.
 //
 
+@import UIKit;
+
 /**
  Methods to enhance `UIViewController` for use with DTSidePanelController
  */
