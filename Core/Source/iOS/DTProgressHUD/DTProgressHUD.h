@@ -6,7 +6,7 @@
 //  Copyright 2014 Cocoanetics. All rights reserved.
 //
 
-@import UIKit;
+#import <UIKit/UIKit.h>
 
 /**
  Different types for showing and hiding animation

@@ -6,7 +6,7 @@
 //  Copyright (c) 2011 Cocoanetics. All rights reserved.
 //
 
-@import UIKit;
+#import <UIKit/UIKit.h>
 
 /** DTFoundation enhancements for `UIView` */
 

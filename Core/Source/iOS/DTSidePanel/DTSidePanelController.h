@@ -6,7 +6,7 @@
 //  Copyright (c) 2013 Cocoanetics. All rights reserved.
 //
 
-@import UIKit;
+#import <UIKit/UIKit.h>
 
 #import "UIViewController+DTSidePanelController.h"
 #import <DTFoundation/DTWeakSupport.h>

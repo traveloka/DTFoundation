@@ -6,7 +6,7 @@
 //  Copyright (c) 2012 Cocoanetics. All rights reserved.
 //
 
-@import Foundation;
+#import <Foundation/Foundation.h>
 
 /**
  This class provides read/write access to extended file attributes of a file or folder. It wraps the standard xattr Posix functions to do that.

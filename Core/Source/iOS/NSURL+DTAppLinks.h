@@ -6,7 +6,7 @@
 //  Copyright (c) 2011 Cocoanetics. All rights reserved.
 //
 
-@import Foundation;
+#import <Foundation/Foundation.h>
 
 
 /** A collection of category extensions for `NSURL` that provide direct access to built-in app capabilities.

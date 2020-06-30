@@ -5,7 +5,7 @@
 //  Created by Oliver Drobnik on 11/25/11.
 //  Copyright (c) 2012 Cocoanetics. All rights reserved.
 
-@import Foundation;
+#import <Foundation/Foundation.h>
 
 /**
   Class that represents a version number comprised of major, minor and maintenance number separated by dots. For example "1.2.2".

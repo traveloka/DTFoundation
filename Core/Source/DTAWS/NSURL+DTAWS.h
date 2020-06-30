@@ -6,7 +6,7 @@
 //  Copyright (c) 2013 Cocoanetics. All rights reserved.
 //
 
-@import Foundation;
+#import <Foundation/Foundation.h>
 
 /**
  Category on `NSURL` for constructing a signed request URL for Amazon's [Product Advertising API](http://docs.aws.amazon.com/AWSECommerceService/latest/DG/Welcome.html)

@@ -6,7 +6,7 @@
 //  Copyright (c) 2013 Cocoanetics. All rights reserved.
 //
 
-@import Foundation;
+#import <Foundation/Foundation.h>
 
 /**
  Replacement for `NSLog` which can be configured to output certain log levels at run time.

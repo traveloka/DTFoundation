@@ -6,7 +6,7 @@
 //  Copyright 2010 Drobnik.com. All rights reserved.
 //
 
-@import Foundation;
+#import <Foundation/Foundation.h>
 
 /**
  A collection of useful additions for `NSArray` to deal with Property Lists and also to get error handling for malformed data.

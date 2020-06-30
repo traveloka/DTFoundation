@@ -6,7 +6,7 @@
 //  Copyright (c) 2014 Cocoanetics. All rights reserved.
 //
 
-@import UIKit;
+#import <UIKit/UIKit.h>
 
 @class DTProgressHUD;
 

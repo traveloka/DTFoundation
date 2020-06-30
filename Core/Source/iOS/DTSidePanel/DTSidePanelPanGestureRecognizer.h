@@ -8,7 +8,7 @@
 //
 
 
-@import UIKit;
+#import <UIKit/UIKit.h>
 
 
 @interface DTSidePanelPanGestureRecognizer : UIPanGestureRecognizer

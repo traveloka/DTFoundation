@@ -6,7 +6,7 @@
 //  Copyright (c) 2013 Cocoanetics. All rights reserved.
 //
 
-@import Foundation;
+#import <Foundation/Foundation.h>
 
 /**
  A wrapper for SQLite databases which offers threadsafe concurrency and support for cancelling long-running operations.

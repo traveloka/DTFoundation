@@ -6,7 +6,8 @@
 //  Copyright 2010 Cocoanetics. All rights reserved.
 //
 
-@import UIKit;
+#import <Foundation/Foundation.h>
+#import <CoreGraphics/CoreGraphics.h>
 
 #import <tgmath.h>
 
