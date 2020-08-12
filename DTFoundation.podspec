@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = 'DTFoundation'
-  spec.version      = '1.7.14-tvlk'
+  spec.version      = '1.7.15-tvlk'
   spec.summary      = "Standard toolset classes and categories."
   spec.homepage     = "https://github.com/traveloka/DTFoundation"
   spec.author       = { "Oliver Drobnik" => "oliver@cocoanetics.com" }
