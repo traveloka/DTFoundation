@@ -6,11 +6,11 @@
 //  Copyright 2012 Cocoanetics. All rights reserved.
 //
 
+#import "DTVersion.h"
+
 #if TARGET_OS_IPHONE
 #import <UIKit/UIKit.h>
 #endif
-
-#import "DTVersion.h"
 
 @implementation DTVersion
 
